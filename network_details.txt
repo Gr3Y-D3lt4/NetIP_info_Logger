@@ -1,0 +1,216 @@
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:55:05
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:55:15
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:55:25
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:55:35
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:56:14
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:56:24
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:56:34
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:56:44
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:56:54
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:57:04
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:57:14
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:57:24
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:57:34
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:57:44
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:57:54
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:58:04
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:58:14
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:58:24
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:58:34
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:58:44
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:58:54
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:59:04
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:59:14
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:59:24
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:59:34
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:59:44
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 16:59:54
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:00:04
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:00:14
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:00:24
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:00:34
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:00:44
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:00:54
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:01:04
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:01:14
+
+==================================================
+System IPv4 Address: 192.168.1.58
+System IPv6 Address: fe80::7ccc:258e:2a8f:209d
+MAC Address: fc:34:97:de:b7:15j
+Last Updated: 2026-07-01 17:01:24
+
