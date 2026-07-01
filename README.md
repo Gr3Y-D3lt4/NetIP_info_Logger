@@ -1,10 +1,6 @@
 # NetIP_info_Logger
 A Python utility that periodically collects and logs system network information—including IPv4 address, IPv6 address, MAC address, and timestamps—into a text file for monitoring, troubleshooting, and educational purposes.
 
-# NetIP_info_Logger
-
-NetInfo Logger is a lightweight Python application that automatically collects and records essential network information from the local system at regular intervals. It is designed for learning, network monitoring, and troubleshooting by maintaining a timestamped log of network details.
-
 ## Features
 
 - 🌐 Retrieves the system's IPv4 address
